@@ -1,0 +1,89 @@
+body {
+	background: #edffff !important;
+}
+
+h1 {
+	font-size: 4.5em;
+	font-weight: 400;
+	line-height: 1.5;
+}
+
+h2 {
+	font-size: 2.8em;
+	font-weight: 400;
+	line-height: 1.5;
+}
+
+p {
+	font-size: 1.2em;
+}
+
+.mainname {
+	padding-top: 7%;
+}
+
+.selfpic {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+	margin-bottom: 2%;
+	border-radius: 50%;
+}
+
+.maincontentholder {
+	margin: 20%;
+	margin-top: 0;
+	margin-bottom: 5%
+}
+
+.maincontent {
+	margin-bottom: 8%;
+	text-align: center;
+}
+
+.coursetext {
+	font-size: 0.8em;
+	text-align: center;
+}
+
+.projects .col {
+	margin-bottom: 3%;
+}
+
+.jumbotron {
+	background-image: url("./assets/scenery.jpg");
+	background-position: center;
+	background-size: cover;
+	color: white;
+	padding-top: 0;
+	padding-bottom: 8%;
+	border: 1px solid #8f8f8f;
+}
+
+.nav-tabs {
+	margin-bottom: 0;
+}
+
+.navbar {
+	padding-left: 10%;
+	padding-right: 10%;
+	font-size: 1.8em;
+}
+
+.navbar-inner {
+	background: transparent;
+}
+
+.evenul {
+	padding-left: 0;
+}
+
+.col p {
+	margin-bottom: 0px;
+}
+
+.col ul {
+	padding-left: 0;
+	margin-bottom: 10px
+}
